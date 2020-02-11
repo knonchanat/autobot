@@ -6,11 +6,9 @@ use \LINE\LINEBot;
 use \LINE\LINEBot\MessageBuilder\TextMessageBuilder;
 
 $channel_token=
-'p6KWu/pGSqlrCPg4fOH4g2wwgJF8R1yGX5K3OQZqxALaQ6qM0OKO
-wam31edWZ8i+4m2M6CQ35pZ8QcHBFYycBqNDgbW0AvAF5yrW7moUhEi
-ZwKKKRZgGEDBQv0acjZF1/9H3kA6nXKETFcoEaxsDagdB04t89/1O/w1cDnyilFU=';
+'jTgpKfXc44rB705Y4QxNr3KWDYyAJ2N56bLDWdOYOutT0drgUVafPpa5o/HGakmm4m2M6CQ35pZ8QcHBFYycBqNDgbW0AvAF5yrW7moUhEh79YmcxTkH1Xs8QSNsZgz/yJgL4yDBK7gcC01HdrVjYwdB04t89/1O/w1cDnyilFU=';
 
-$channel_secret='ed2d6c1cb35b36fdc865bd3b2fd63166';
+$channel_secret='f474c54be520197ae79d9ce4b7d14ea2';
 
 //รับ message จาก line api
 $content=file_get_contents('php://input');
