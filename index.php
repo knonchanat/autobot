@@ -1,5 +1,5 @@
 <?php
-require_once('vendor/auto.php');
+require_once('vendor/autoload.php');
 
 use \LINE\LINEBot\HTTPClient\CurlHTTPClient;
 use \LINE\LINEBot;
